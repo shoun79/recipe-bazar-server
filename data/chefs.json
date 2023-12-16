@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Chef Zhang",
+        "image_url": "https://images.unsplash.com/photo-1470114755716-3e1124c6c3bd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpbmVzZSUyMGNoZWZ8ZW58MHx8MHx8fDA%3D",
+        "experience": "10 years",
+        "num_recipes": 2,
+        "likes": 12000,
+        "bio": "Chef Zhang is a seasoned chef with a passion for traditional Chinese cuisine. With a decade of experience, he brings a wealth of knowledge and creativity to every dish he prepares."
+    },
+    {
+        "id": 2,
+        "name": "Chef Li",
+        "image_url": "https://images.unsplash.com/photo-1609053175487-f2bf03ba92b0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODR8fGNoaW5lc2UlMjBjaGVmfGVufDB8fDB8fHww",
+        "experience": "8 years",
+        "num_recipes": 3,
+        "likes": 9500,
+        "bio": "Chef Wang's culinary journey spans over a decade, during which he has honed his skills in crafting authentic Chinese delicacies. His dedication to preserving traditional flavors is evident in every dish."
+    },
+    {
+        "id": 3,
+        "name": "Chef Wang",
+        "image_url": "https://images.unsplash.com/photo-1604551969716-5d6d8f77b241?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ3fHxjaGluZXNlJTIwY2hlZnxlbnwwfHwwfHx8MA%3D%3D",
+        "experience": "12 years",
+        "num_recipes": 5,
+        "likes": 15000,
+        "bio": "Chef Wang's culinary journey spans over a decade, during which he has honed his skills in crafting authentic Chinese delicacies. His dedication to preserving traditional flavors is evident in every dish."
+    },
+    {
+        "id": 4,
+        "name": "Chef Chen",
+        "image_url": "https://plus.unsplash.com/premium_photo-1683141374844-034318418e47?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGNoaW5lc2UlMjBjaGVmfGVufDB8fDB8fHww",
+        "experience": "15 years",
+        "num_recipes": 3,
+        "likes": 18000,
+        "bio": "With 15 years of culinary expertise, Chef Chen is a master in the art of Chinese cooking. His commitment to perfection and attention to detail make his dishes truly exceptional."
+    },
+    {
+        "id": 5,
+        "name": "Chef Liu",
+        "image_url": "https://images.unsplash.com/photo-1578367015636-5ceda70b8069?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGNoaW5lc2UlMjBjaGVmfGVufDB8fDB8fHww",
+        "experience": "9 years",
+        "num_recipes": 3,
+        "likes": 10000,
+        "bio": "Chef Liu, with 9 years of experience, is known for his ability to blend traditional and modern elements in Chinese cuisine. His passion for creating memorable dining experiences is reflected in his diverse recipes."
+    },
+    {
+        "id": 6,
+        "name": "Chef Wu",
+        "image_url": "https://plus.unsplash.com/premium_photo-1665203475586-f6b05672049f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fGNoaW5lc2UlMjBjaGVmfGVufDB8fDB8fHww",
+        "experience": "11 years",
+        "num_recipes": 3,
+        "likes": 13000,
+        "bio": "Chef Wu's culinary journey of 11 years has been marked by a commitment to excellence. His creative approach and dedication to quality have earned him a reputation for crafting exquisite Chinese dishes."
+    }
+]

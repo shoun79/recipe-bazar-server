@@ -1,0 +1,272 @@
+[
+    {
+        "id": 8536,
+        "recipe_name": "Mapo Tofu",
+        "ingredients": [
+            "Firm tofu",
+            "Vegetable oil",
+            "Ground pork",
+            "Garlic",
+            "Ginger"
+        ],
+        "cooking_method": "1. Heat oil in a wok over medium heat. Add garlic, ginger, and fermented black beans. Stir-fry for 1-2 minutes.\n2. Add ground pork and doubanjiang. Cook until pork is browned.\n3. Pour in chicken broth, soy sauce, sugar, and Sichuan peppercorns. Add tofu cubes and simmer for 10 minutes.\n4. If desired, add the cornstarch mixture to thicken the sauce.\n5. Garnish with chopped green onions and serve over steamed rice.",
+        "rating": 4.8,
+        "img": "https://images.unsplash.com/photo-1619606021121-58662fd1a51a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWFwbyUyMFRvZnV8ZW58MHx8MHx8fDA%3D",
+        "chef_id": 1
+    },
+    {
+        "id": 9421,
+        "recipe_name": "Sweet and Sour Chicken",
+        "ingredients": [
+            "Chicken",
+            "Pineapple",
+            "Bell pepper",
+            "Onion",
+            "Snow peas"
+        ],
+        "cooking_method": "1. In a bowl, mix chicken pieces with cornstarch until well coated.\n2. Heat oil in a pan and fry the chicken until golden brown. Remove and set aside.\n3. In the same pan, sauté ginger and garlic. Add bell pepper, onion, and snow peas. Cook until vegetables are tender.\n4. In a bowl, mix ketchup, rice vinegar, soy sauce, and brown sugar. Pour the sauce into the pan.\n5. Add pineapple chunks and cooked chicken. Stir until everything is coated in the sauce.\n6. Serve over cooked rice.",
+        "rating": 4.5,
+        "img": "https://images.unsplash.com/photo-1664138788119-bd4f073259d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3dlZXQlMjBhbmQlMjBTb3VyJTIwQ2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D",
+        "chef_id": 1
+    },
+    {
+        "id": 1874,
+        "recipe_name": "Peking Duck Pancakes",
+        "ingredients": [
+            "Pancake",
+            "Cucumber",
+            "Peking duck",
+            "Green onion",
+            "Hoisin sauce"
+        ],
+        "cooking_method": "1. Warm the Chinese pancakes according to the package instructions or make them from scratch.\n2. Spread hoisin sauce on each pancake.\n3. Add a portion of shredded Peking duck on top of the hoisin sauce.\n4. Garnish with julienned cucumber and sliced green onions.\n5. Drizzle with plum sauce.\n6. Fold the pancakes and serve immediately.",
+        "rating": 4.7,
+        "img": "https://images.unsplash.com/photo-1485704686097-ed47f7263ca4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RHVjayUyMCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+        "chef_id": 1
+    },
+    {
+        "id": 123456,
+        "chef_id": 2,
+        "recipe_name": "Szechuan Chicken",
+        "img": "https://plus.unsplash.com/premium_photo-1661432501995-2612dfa06f60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3plY2h1YW4lMjBDaGlja2VufGVufDB8fDB8fHww",
+        "ingredients": [
+            "Chicken",
+            "Soy Sauce",
+            "Ginger",
+            "Garlic",
+            "Chili Paste"
+        ],
+        "cooking_method": "1. Marinate chicken with soy sauce and ginger.\n2. Stir-fry with garlic and chili paste.\n3. Serve hot.",
+        "rating": 4.5
+    },
+    {
+        "id": 654321,
+        "chef_id": 2,
+        "recipe_name": "Vegetable Spring Rolls",
+        "img": "https://plus.unsplash.com/premium_photo-1663850685068-a944c5dbc3fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VmVnZXRhYmxlJTIwU3ByaW5nJTIwUm9sbHN8ZW58MHx8MHx8fDA%3D",
+        "ingredients": [
+            "Cabbage",
+            "Carrots",
+            "Bean Sprouts",
+            "Soy Sauce",
+            "Rice Paper"
+        ],
+        "cooking_method": "1. Stir-fry vegetables with soy sauce.\n2. Roll the mixture in rice paper.\n3. Deep-fry until golden brown.",
+        "rating": 4.2
+    },
+    {
+        "id": 987654,
+        "chef_id": 2,
+        "recipe_name": "Peking Duck",
+        "img": "https://images.unsplash.com/photo-1485704686097-ed47f7263ca4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RHVjayUyMCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+        "ingredients": [
+            "Duck",
+            "Hoisin Sauce",
+            "Pancakes",
+            "Cucumber",
+            "Green Onions"
+        ],
+        "cooking_method": "1. Roast duck until crispy.\n2. Serve with hoisin sauce, pancakes, cucumber, and green onions.",
+        "rating": 4.8
+    },
+    {
+        "id": 85367,
+        "recipe_name": "Mapo Tofu",
+        "ingredients": [
+            "Firm tofu",
+            "Vegetable oil",
+            "Ground pork",
+            "Garlic",
+            "Ginger"
+        ],
+        "cooking_method": "1. Heat oil in a wok over medium heat. Add garlic, ginger, and fermented black beans. Stir-fry for 1-2 minutes.\n2. Add ground pork and doubanjiang. Cook until pork is browned.\n3. Pour in chicken broth, soy sauce, sugar, and Sichuan peppercorns. Add tofu cubes and simmer for 10 minutes.\n4. If desired, add the cornstarch mixture to thicken the sauce.\n5. Garnish with chopped green onions and serve over steamed rice.",
+        "rating": 4.8,
+        "img": "https://images.unsplash.com/photo-1619606021121-58662fd1a51a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWFwbyUyMFRvZnV8ZW58MHx8MHx8fDA%3D",
+        "chef_id": 3
+    },
+    {
+        "id": 94213,
+        "recipe_name": "Sweet and Sour Chicken",
+        "ingredients": [
+            "Chicken",
+            "Pineapple",
+            "Bell pepper",
+            "Onion",
+            "Snow peas"
+        ],
+        "cooking_method": "1. In a bowl, mix chicken pieces with cornstarch until well coated.\n2. Heat oil in a pan and fry the chicken until golden brown. Remove and set aside.\n3. In the same pan, sauté ginger and garlic. Add bell pepper, onion, and snow peas. Cook until vegetables are tender.\n4. In a bowl, mix ketchup, rice vinegar, soy sauce, and brown sugar. Pour the sauce into the pan.\n5. Add pineapple chunks and cooked chicken. Stir until everything is coated in the sauce.\n6. Serve over cooked rice.",
+        "rating": 4.5,
+        "img": "https://images.unsplash.com/photo-1664138788119-bd4f073259d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3dlZXQlMjBhbmQlMjBTb3VyJTIwQ2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D",
+        "chef_id": 3
+    },
+    {
+        "id": 18746,
+        "recipe_name": "Peking Duck Pancakes",
+        "ingredients": [
+            "Pancake",
+            "Cucumber",
+            "Peking duck",
+            "Green onion",
+            "Hoisin sauce"
+        ],
+        "cooking_method": "1. Warm the Chinese pancakes according to the package instructions or make them from scratch.\n2. Spread hoisin sauce on each pancake.\n3. Add a portion of shredded Peking duck on top of the hoisin sauce.\n4. Garnish with julienned cucumber and sliced green onions.\n5. Drizzle with plum sauce.\n6. Fold the pancakes and serve immediately.",
+        "rating": 4.7,
+        "img": "https://images.unsplash.com/photo-1485704686097-ed47f7263ca4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RHVjayUyMCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+        "chef_id": 3
+    },
+    {
+        "id": 123456,
+        "chef_id": 4,
+        "recipe_name": "Szechuan Chicken",
+        "img": "https://plus.unsplash.com/premium_photo-1661432501995-2612dfa06f60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3plY2h1YW4lMjBDaGlja2VufGVufDB8fDB8fHww",
+        "ingredients": [
+            "Chicken",
+            "Soy Sauce",
+            "Ginger",
+            "Garlic",
+            "Chili Paste"
+        ],
+        "cooking_method": "1. Marinate chicken with soy sauce and ginger.\n2. Stir-fry with garlic and chili paste.\n3. Serve hot.",
+        "rating": 4.5
+    },
+    {
+        "id": 654321,
+        "chef_id": 4,
+        "recipe_name": "Vegetable Spring Rolls",
+        "img": "https://plus.unsplash.com/premium_photo-1663850685068-a944c5dbc3fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VmVnZXRhYmxlJTIwU3ByaW5nJTIwUm9sbHN8ZW58MHx8MHx8fDA%3D",
+        "ingredients": [
+            "Cabbage",
+            "Carrots",
+            "Bean Sprouts",
+            "Soy Sauce",
+            "Rice Paper"
+        ],
+        "cooking_method": "1. Stir-fry vegetables with soy sauce.\n2. Roll the mixture in rice paper.\n3. Deep-fry until golden brown.",
+        "rating": 4.2
+    },
+    {
+        "id": 987654,
+        "chef_id": 4,
+        "recipe_name": "Peking Duck",
+        "img": "https://images.unsplash.com/photo-1485704686097-ed47f7263ca4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RHVjayUyMCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+        "ingredients": [
+            "Duck",
+            "Hoisin Sauce",
+            "Pancakes",
+            "Cucumber",
+            "Green Onions"
+        ],
+        "cooking_method": "1. Roast duck until crispy.\n2. Serve with hoisin sauce, pancakes, cucumber, and green onions.",
+        "rating": 4.8
+    },
+    {
+        "id": 8536,
+        "recipe_name": "Mapo Tofu",
+        "ingredients": [
+            "Firm tofu",
+            "Vegetable oil",
+            "Ground pork",
+            "Garlic",
+            "Ginger"
+        ],
+        "cooking_method": "1. Heat oil in a wok over medium heat. Add garlic, ginger, and fermented black beans. Stir-fry for 1-2 minutes.\n2. Add ground pork and doubanjiang. Cook until pork is browned.\n3. Pour in chicken broth, soy sauce, sugar, and Sichuan peppercorns. Add tofu cubes and simmer for 10 minutes.\n4. If desired, add the cornstarch mixture to thicken the sauce.\n5. Garnish with chopped green onions and serve over steamed rice.",
+        "rating": 4.8,
+        "img": "https://images.unsplash.com/photo-1619606021121-58662fd1a51a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TWFwbyUyMFRvZnV8ZW58MHx8MHx8fDA%3D",
+        "chef_id": 5
+    },
+    {
+        "id": 9421,
+        "recipe_name": "Sweet and Sour Chicken",
+        "ingredients": [
+            "Chicken",
+            "Pineapple",
+            "Bell pepper",
+            "Onion",
+            "Snow peas"
+        ],
+        "cooking_method": "1. In a bowl, mix chicken pieces with cornstarch until well coated.\n2. Heat oil in a pan and fry the chicken until golden brown. Remove and set aside.\n3. In the same pan, sauté ginger and garlic. Add bell pepper, onion, and snow peas. Cook until vegetables are tender.\n4. In a bowl, mix ketchup, rice vinegar, soy sauce, and brown sugar. Pour the sauce into the pan.\n5. Add pineapple chunks and cooked chicken. Stir until everything is coated in the sauce.\n6. Serve over cooked rice.",
+        "rating": 4.5,
+        "img": "https://images.unsplash.com/photo-1664138788119-bd4f073259d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3dlZXQlMjBhbmQlMjBTb3VyJTIwQ2hpY2tlbnxlbnwwfHwwfHx8MA%3D%3D",
+        "chef_id": 5
+    },
+    {
+        "id": 1874,
+        "recipe_name": "Peking Duck Pancakes",
+        "ingredients": [
+            "Pancake",
+            "Cucumber",
+            "Peking duck",
+            "Green onion",
+            "Hoisin sauce"
+        ],
+        "cooking_method": "1. Warm the Chinese pancakes according to the package instructions or make them from scratch.\n2. Spread hoisin sauce on each pancake.\n3. Add a portion of shredded Peking duck on top of the hoisin sauce.\n4. Garnish with julienned cucumber and sliced green onions.\n5. Drizzle with plum sauce.\n6. Fold the pancakes and serve immediately.",
+        "rating": 4.7,
+        "img": "https://images.unsplash.com/photo-1485704686097-ed47f7263ca4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RHVjayUyMCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+        "chef_id": 5
+    },
+    {
+        "id": 123456,
+        "chef_id": 6,
+        "recipe_name": "Szechuan Chicken",
+        "img": "https://plus.unsplash.com/premium_photo-1661432501995-2612dfa06f60?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8U3plY2h1YW4lMjBDaGlja2VufGVufDB8fDB8fHww",
+        "ingredients": [
+            "Chicken",
+            "Soy Sauce",
+            "Ginger",
+            "Garlic",
+            "Chili Paste"
+        ],
+        "cooking_method": "1. Marinate chicken with soy sauce and ginger.\n2. Stir-fry with garlic and chili paste.\n3. Serve hot.",
+        "rating": 4.5
+    },
+    {
+        "id": 654321,
+        "chef_id": 6,
+        "recipe_name": "Vegetable Spring Rolls",
+        "img": "https://plus.unsplash.com/premium_photo-1663850685068-a944c5dbc3fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VmVnZXRhYmxlJTIwU3ByaW5nJTIwUm9sbHN8ZW58MHx8MHx8fDA%3D",
+        "ingredients": [
+            "Cabbage",
+            "Carrots",
+            "Bean Sprouts",
+            "Soy Sauce",
+            "Rice Paper"
+        ],
+        "cooking_method": "1. Stir-fry vegetables with soy sauce.\n2. Roll the mixture in rice paper.\n3. Deep-fry until golden brown.",
+        "rating": 4.2
+    },
+    {
+        "id": 987654,
+        "chef_id": 6,
+        "recipe_name": "Peking Duck",
+        "img": "https://images.unsplash.com/photo-1485704686097-ed47f7263ca4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8RHVjayUyMCUyMGZvb2R8ZW58MHx8MHx8fDA%3D",
+        "ingredients": [
+            "Duck",
+            "Hoisin Sauce",
+            "Pancakes",
+            "Cucumber",
+            "Green Onions"
+        ],
+        "cooking_method": "1. Roast duck until crispy.\n2. Serve with hoisin sauce, pancakes, cucumber, and green onions.",
+        "rating": 4.8
+    }
+]
